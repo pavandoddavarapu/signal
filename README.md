@@ -1,3 +1,14 @@
+---
+title: Signal
+emoji: 🤟
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.60.0"
+app_file: app/main.py
+pinned: false
+---
+
 # 🤟 Signal
 
 **Sign Language → Text → Speech.**
